@@ -18,14 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-Add the following lines to `app/assets/javascripts/application.js` :
+Add the following lines to `app/assets/javascripts/application.js`:
 
-  //= require ember-bootstrap
+    //= require ember-bootstrap
 
 Specified the variant in your app's configuration eg.:
 
-  config.ember.variant = :production
-  #config.ember_bootstrap_asset.variant = :development
+    config.ember_bootstrap_asset.variant = :production
+    #config.ember_bootstrap_asset.variant = :development
 
 
 ## Contributing
