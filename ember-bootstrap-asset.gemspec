@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["guillaume@belleguic.com"]
   spec.description   = %q{Add ember-bootstrap lib to rails asset pipeline}
   spec.summary       = %q{Add ember-bootstrap lib to rails asset pipeline}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tetsuo692/ember-bootstrap-asset"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
