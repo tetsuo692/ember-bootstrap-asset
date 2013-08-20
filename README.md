@@ -1,4 +1,4 @@
-# Ember::Bootstrap::Asset [![Current Version](https://badge.fury.io/rb/ember-bootstrap-asset.png)]
+# Ember::Bootstrap::Asset [![Last Version](https://badge.fury.io/rb/ember-bootstrap-asset.png)](https://rubygems.org/gems/ember-bootstrap-asset)
 
 ember-bootstrap-asset allows you to include [ember-bootstrap](https://github.com/emberjs-addons/ember-bootstrap) into your Rails application.
 
