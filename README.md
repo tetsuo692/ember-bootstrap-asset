@@ -1,6 +1,6 @@
 # Ember::Bootstrap::Asset
 
-TODO: Write a gem description
+ember-bootstrap-asset allows you to include [ember-bootstrap](https://github.com/emberjs-addons/ember-bootstrap) into your Rails application.
 
 ## Installation
 
@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following lines to `app/assets/javascripts/application.js` :
+//#= require ember-bootstrap
+
+Specified the variant in your app's configuration eg.=
+  config.ember.variant = :production
+  #config.ember_bootstrap_asset.variant = :development
 
 ## Contributing
 

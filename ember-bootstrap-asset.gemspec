@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Ember::Bootstrap::Asset::VERSION
   spec.authors       = ["Guillaume BELLEGUIC"]
   spec.email         = ["guillaume@belleguic.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Add ember-bootstrap lib to rails asset pipeline}
+  spec.summary       = %q{Add ember-bootstrap lib to rails asset pipeline}
   spec.homepage      = ""
   spec.license       = "MIT"
 
