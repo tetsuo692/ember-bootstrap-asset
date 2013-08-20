@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Add the following lines to `app/assets/javascripts/application.js` :
 
-  //#= require ember-bootstrap
+  //= require ember-bootstrap
 
 Specified the variant in your app's configuration eg.:
 
